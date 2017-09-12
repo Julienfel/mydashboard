@@ -1,0 +1,10 @@
+.container {
+  position: fixed;
+  padding: 2rem;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 30rem;
+  box-sizing: border-box;
+  z-index: 99;
+}

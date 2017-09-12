@@ -1,0 +1,11 @@
+@import './_reset.css';
+@import './_fonts.css';
+@import './_constants.css';
+
+html {
+  font-size: 10px;
+}
+body {
+  font-family: var(--font-RobotoRegular);
+  background-color: var(--color-grey900);
+}

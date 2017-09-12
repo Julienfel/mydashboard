@@ -1,0 +1,12 @@
+:root {
+  /* Fonts */
+  --font-RobotoBold   : 'Roboto-Bold', Verdana, Arial, Helvetica, sans-serif;
+  --font-RobotoLight  : 'Roboto-Light', Verdana, Arial, Helvetica, sans-serif;
+  --font-RobotoRegular: 'Roboto-Regular', Verdana, Arial, Helvetica, sans-serif;
+
+  /* Colors */
+  --color-grey900: #212121;
+  --color-grey800: #424242;
+  --color-grey400: #BDBDBD;
+  --color-white: #FFFFFF;
+}

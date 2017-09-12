@@ -1,0 +1,8 @@
+@import '../../../css/_constants.css';
+
+.title {
+  margin-bottom: 1rem;
+  line-height: 2;
+  font-size: 2rem;
+  color: var(--color-white);
+}

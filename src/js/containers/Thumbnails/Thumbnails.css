@@ -1,0 +1,18 @@
+@import '../../../css/_constants.css';
+
+.thumbnails {
+  padding: 0.85rem 0.5rem 14rem 30rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.gridList {
+  width: 100%;
+}
+
+.noVideo {
+  padding-top: 14rem;
+  font-size: 2rem;
+  color: var(--color-white);
+}

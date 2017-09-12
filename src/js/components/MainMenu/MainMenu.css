@@ -1,0 +1,13 @@
+.menu {
+  display: block!important;
+}
+
+.favorites {
+  & svg { 
+    transform: scale(1); 
+  }
+
+  &.added svg {
+    transform: scale(1.2);
+  }
+}

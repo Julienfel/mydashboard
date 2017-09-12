@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true
+  },
+  "parser": "babel-eslint",
+  "extends": [
+    "airbnb"
+  ],
+  "rules": {
+    "jsx-a11y/href-no-hash": "off",
+    "linebreak-style": ["error", "windows"],
+    "react/require-default-props": 0
+  }
+}
